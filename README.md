@@ -1,7 +1,7 @@
 # AI-Programs
 
 This repository contains Python programs and practical experiments related to Artificial Intelligence (AI), including search techniques, problem-solving methods, knowledge representation, and expert systems.
-<br>
+<br><br>
 Table of Contents<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chapter 01 – Introduction to AI and Search<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chapter 02 – AI Search Algorithms<br>

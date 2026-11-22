@@ -1,26 +1,44 @@
 # AI-Programs
-This repository contains codes/questions related to different search techniques used in artificial intelligence and machine learning.
 
-Chapter 01:
-  1. Timetable_KnowledgeBase
-  2. Fibonacci & Factorial
-  3. Prolog List Operations
-  4. College Timetable Knowledge Base
-  5. Students Performance Classification
-  6. Breadth First Search
+This repository contains Python programs and practical experiments related to Artificial Intelligence (AI), including search techniques, problem-solving methods, knowledge representation, and expert systems.
 
-Chapter 02:\n
-  7. Greedy Best-First Search\n
-  8. A* Search Algorithm\n
-  9. Hill Climbing Algorithm\n
-  10. Simulated Annealing\n
-  11. Map Coloring Problem\n
-  12. N-Queens Problem\n
-\n
-Chapter 03:\n
-  13. STRIPS in Classical AI\n
-  14. University Course Advisory System\n
-  15. Unification and Resolution\n
-  16. Semantic Network Using Forward Chaining\n
-  17. Legal Eligibility Checker\n
-  18. Rule-Based Expert System for Fault Diagnosis\n
+Table of Contents
+  Chapter 01 – Introduction to AI and Search
+  Chapter 02 – AI Search Algorithms
+  Chapter 03 – Knowledge Representation and Reasoning
+
+
+AI-Programs/
+│
+├── Chapter-01/
+│   ├── 01-Timetable-KnowledgeBase
+│   ├── 02-Fibonacci-Factorial
+│   ├── 03-Prolog-List-Operations
+│   ├── 04-College-Timetable
+│   ├── 05-Students-Performance
+│   └── 06-Breadth-First-Search
+│
+├── Chapter-02/
+│   ├── 07-Greedy-Best-First-Search
+│   ├── 08-A-Star-Search
+│   ├── 09-Hill-Climbing
+│   ├── 10-Simulated-Annealing
+│   ├── 11-Map-Coloring
+│   └── 12-N-Queens
+│
+└── Chapter-03/
+    ├── 13-STRIPS
+    ├── 14-Course-Advisory
+    ├── 15-Unification-Resolution
+    ├── 16-Semantic-Network
+    ├── 17-Legal-Eligibility
+    └── 18-Fault-Diagnosis
+
+
+Technologies Used:
+  Python
+  Artificial Intelligence
+  Problem Solving and Search Algorithms
+  Knowledge Representation
+  Rule-Based Systems
+  Repository Structure
